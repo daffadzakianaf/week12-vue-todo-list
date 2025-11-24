@@ -1,7 +1,7 @@
 # week12-vue-todo-list
 
-nama = Muhammad Daffa Dzaki Ahnaf
-nim = F1D022142
+#### nama = Muhammad Daffa Dzaki Ahnaf
+#### nim = F1D022142
 
 ## Deskripsi Tugas
 pada tugas ini saya membuat aplikasi To-Do List sederhana menggunakan Vue.js.
